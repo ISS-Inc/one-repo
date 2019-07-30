@@ -5,7 +5,7 @@
     <title>域名出售！！</title>
 </head>
 <body>
-<h1>Hello Word!</h1>
+<h1>域名出售！！</h1>
 <div style="width: 100%;height: 100px;background: green; color: red">域名出售 ： <a href="www.samsung-hk.com">samsung-hk.com </a>
     <a href="www.bbcat.club">bbcat.club</a></div>
 <div style="width: 100%;height: 100px;background: green; color: red">域名出售 ：
